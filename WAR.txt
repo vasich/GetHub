@@ -1,0 +1,26 @@
+<group name="Elite Legion">
+<item name="***камнегрыз***" />
+<item name="---Нуб---" />
+<item name="-SmErT-" />
+<item name="-шторм-" />
+<item name="Andrew Goodman" />
+<item name="Crownless" />
+<item name="el rei" />
+<item name="Elite Baby" />
+<item name="Happy Babby" />
+<item name="Heavy" />
+<item name="Kobe Bryant" />
+<item name="Kobe Bryant dig" />
+<item name="Kobe Bryant lol" />
+<item name="nauda1" />
+<item name="NZT" />
+<item name="POLISMEN" />
+<item name="Sole Surviver" />
+<item name="xeyal" />
+<item name="Забыт всеми" />
+<item name="К и П" />
+<item name="Коби Брайант" />
+<item name="убийтся2" />
+<item name="Эксперимент" />
+<item name="_F0RZE_" />
+</group>
